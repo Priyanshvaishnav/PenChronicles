@@ -25,3 +25,6 @@ CREATE TABLE blogs (
 );
   SHOW TABLES;
 
+
+# npm install 
+
