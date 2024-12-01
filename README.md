@@ -3,6 +3,9 @@ This is a simple blog application built using Node.js, HTML, CSS,  MySQL, and JW
 
 
 for Creating Database:
+
+
+install mysql enter the password and create the database usign this 
 use:-      mysql -u root -p
 
 CREATE DATABASE blog_app;
