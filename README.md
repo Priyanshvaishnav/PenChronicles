@@ -4,7 +4,7 @@ This is a simple blog application built using Node.js, HTML, CSS,  MySQL, and JW
 
 for Creating Database:
 use:-      mysql -u root -p
-#
+
 CREATE DATABASE blog_app;
 USE blog_app;
 
